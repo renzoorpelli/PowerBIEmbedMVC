@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOwCydQw5PzsHrEFTa0tmnseGa7ImM84lI0IMxBji8U6Xfdoe0aBXnFUvFPw+OaFQQYFgjmNKwVHukKhC9temQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\PowerBIReports.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.identity.client\\4.49.1\\microsoft.identity.client.4.49.1.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.powerbi.api\\4.11.0\\microsoft.powerbi.api.4.11.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

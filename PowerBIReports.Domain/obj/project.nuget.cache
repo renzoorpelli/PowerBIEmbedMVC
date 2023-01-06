@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JYPbJz0+r7NQ2F+8iXrz4GRGBDjNdbv78l6rf9IYHwqULbh3sgQQZe4MJzqfC2LfJzFWTrxfpTlz9q9DZQuMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\PowerBIReports.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.powerbi.api\\4.11.0\\microsoft.powerbi.api.4.11.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

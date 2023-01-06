@@ -1,0 +1,12 @@
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\bin\Debug\net6.0\PowerBIReports.Domain.deps.json
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\bin\Debug\net6.0\PowerBIReports.Domain.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\bin\Debug\net6.0\PowerBIReports.Domain.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.csproj.AssemblyReference.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.AssemblyInfoInputs.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.AssemblyInfo.cs
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\refint\PowerBIReports.Domain.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\PowerBIReports.Domain.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBIReports.Domain\obj\Debug\net6.0\ref\PowerBIReports.Domain.dll

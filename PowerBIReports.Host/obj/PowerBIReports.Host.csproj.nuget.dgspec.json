@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Host\\PowerBIReports.Host.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\PowerBIReports.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\PowerBIReports.Infrastructure.csproj",
+        "projectName": "PowerBIReports.Infrastructure",
+        "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\PowerBIReports.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\PowerBIReports.Domain.csproj": {
+                "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\PowerBIReports.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.49.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\PowerBIReports.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\PowerBIReports.Domain.csproj",
+        "projectName": "PowerBIReports.Domain",
+        "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\PowerBIReports.Domain.csproj",
+        "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.PowerBI.Api": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Host\\PowerBIReports.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Host\\PowerBIReports.Host.csproj",
+        "projectName": "PowerBIReports.Host",
+        "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Host\\PowerBIReports.Host.csproj",
+        "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBIReports.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\PowerBIReports.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\PoweBI\\PowerBIReports\\PowerBI.Infrastructure\\PowerBIReports.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.49.1, )"
+            },
+            "Microsoft.PowerBI.Api": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.175, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

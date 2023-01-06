@@ -1,0 +1,15 @@
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\bin\Debug\net6.0\PowerBI.Infrastructure.deps.json
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\bin\Debug\net6.0\PowerBI.Infrastructure.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\bin\Debug\net6.0\PowerBI.Infrastructure.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\bin\Debug\net6.0\PowerBIReports.Domain.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\bin\Debug\net6.0\PowerBIReports.Domain.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.AssemblyInfo.cs
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.csproj.CopyComplete
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\refint\PowerBI.Infrastructure.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\PowerBI.Infrastructure.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\PoweBI\PowerBIReports\PowerBI.Infrastructure\obj\Debug\net6.0\ref\PowerBI.Infrastructure.dll
